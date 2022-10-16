@@ -1,9 +1,8 @@
 #include<stdio.h>
-
-/*
- * main - Print code line using puts
+/**
+ * main - Entry point
  *
- * Return (0)
+ * Return: Always 0 (Success)
  */
 int main(void)
 
