@@ -1,13 +1,10 @@
 #include<stdio.h>
 
-/**
+/*
+ * main - Print code line using puts
  *
- * main -Print code line using puts
- *
- * Return (0) 
- *
+ * Return (0)
  */
- 
 int main(void)
 
 {
