@@ -1,10 +1,10 @@
-#include <stdio.h>
 #include "main.h"
+
 /**
- * reset_to_98 - takes pointer to an int
- * @n - updates value of int to 98
+ * reset_to_98 - function that takes a pointer to an integer parameter
+ * @n: integer pointer 
  *
- * Return: void means it is correct.
+ * Return: 0 Success
  */
 
 void reset_to_98(int *n)
