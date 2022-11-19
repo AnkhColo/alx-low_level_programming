@@ -1,5 +1,5 @@
 /*
- * File: 3-print_all.c
+ * File:3-print_all.c
  * Auth: Colin Muriithi
  */
 
